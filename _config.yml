@@ -20,12 +20,9 @@
 
 title: Mohamed Wael Kmr
 email: mo7amed.wael@hotmail.com
-description: Resume website for COMP 2600 Assignment 2 (Jekyll + GitHub Pages)
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+description: description: Personal resume website built with Jekyll for COMP 2600 at the University of Manitoba.
+url: "https://mohamedamarr.github.io"
+baseurl: "/comp2600-a2-resume"
 twitter_username: jekyllrb
 github_username:  jekyll
 
