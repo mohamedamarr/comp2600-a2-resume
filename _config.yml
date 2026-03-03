@@ -20,11 +20,10 @@
 
 title: Mohamed Wael Kmr
 email: mo7amed.wael@hotmail.com
-description: description: Personal resume website built with Jekyll for COMP 2600 at the University of Manitoba.
+description: "Personal resume website built with Jekyll for COMP 2600 at the University of Manitoba."
 url: "https://mohamedamarr.github.io"
 baseurl: "/comp2600-a2-resume"
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  mohamedamarr
 
 # Build settings
 theme: minima
