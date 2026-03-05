@@ -1,15 +1,23 @@
-
+# COMP 2600 Assignment 2 — Resume Website (Jekyll + GitHub Pages)
 # Hosting a Resume Website using Markdown, Jekyll, Git, and GitHub Pages
 
 ## Purpose
 
-This README explains how to create and host a resume website using Markdown, Git, the Jekyll static site generator, and GitHub Pages. The goal of this guide is to walk a beginner through the process of turning a Markdown resume into a published website.
+This README explains how to create and host a resume website using Markdown, Git, the Jekyll static site generator, and GitHub Pages. It serves two goals:
+
+1. **A plain-language tutorial** that explains how a beginner can reproduce the workflow: write a resume in Markdown, convert it into a website using Jekyll, and publish it using GitHub Pages.
+
+2. **A technical writing artifact** that explains *why* these tools were chosen and how they align with Andrew Etter’s *Modern Technical Writing* approach: lightweight formats, version control, and automated publishing.
 
 The intended audience is Marvin McLaren, a finance manager who is learning about technical documentation tools. Marvin understands basic Markdown and simple command‑line commands, but he has no experience with Git, static site generators, or code forges such as GitHub. For that reason, these instructions are written clearly and sequentially so that someone with minimal technical experience can follow them.
 
 The process described in this document follows principles from Andrew Etter’s *Modern Technical Writing*. Etter recommends using lightweight documentation tools that are easy to maintain, version, and publish. Markdown, Git, and static site generators follow this philosophy because they simplify documentation workflows and allow automation to handle formatting and deployment.
 
----
+The final website contains:
+- A **home page** (`index.markdown`) with a link to the resume.
+- A **resume page** (`resume.md`) written in Markdown and rendered to HTML by Jekyll.
+
+
 
 ## Prerequisites
 
@@ -42,6 +50,16 @@ Using simple tools is consistent with Etter’s recommendation to prefer systems
 Follow the steps below in order. Each step contains **one clear action**, following the instruction‑writing guidelines for technical documentation.
 
 ---
+To make the instructions usable:
+- Each section is organized with clear headings.
+- Steps are written in a predictable order.
+- Commands are presented in copy-paste blocks.
+- Explanations use plain language and define terms once before using them.
+
+This matches Etter’s idea that documentation should be **easy to maintain**, **easy to publish**, and **usable by real readers**, not written like a textbook.
+
+---
+
 
 ### Step 1: Create a GitHub repository
 
@@ -122,6 +140,7 @@ Team Collaboration
 ```
 
 Markdown is preferred over complex formatting systems because it allows writers to focus on the content rather than presentation.
+It is a lightweight way to write structured text (headings, lists, emphasis) without fighting formatting tools.
 
 ---
 
@@ -212,28 +231,38 @@ Open the repository on GitHub.
 
 After deployment completes, the website will appear at:
 
-```
-https://USERNAME.github.io/comp2600-a2-resume/
+```bash
+https://mohamedamarr.github.io/comp2600-a2-resume/
 ```
 
 Automated publishing is a major advantage of static site workflows because it reduces manual steps.
 
 ---
+### How this assignment supports  Andrew Etter argues that good technical documentation should be:
+* Markdown keeps content lightweight and readable (easy to write and update)
+* Git stores a clear history of changes so version controlled (changes tracked like code)
+* Published automatically (deployment should not be a manual chore)
+
+
+
+Jekyll generates consistent output without manual formatting work.
+GitHub Pages automates publishing so the “source of truth” is always the repository. 
 
 ## Further Resources
 
-Markdown Guide  
+* Markdown Guide  
 https://www.markdownguide.org/
 
-Jekyll Documentation  
+* Jekyll Documentation  
 https://jekyllrb.com/docs/
 
-Git Documentation  
+* Git Documentation  
 https://git-scm.com/docs
 
-GitHub Pages Documentation  
+* itHub Pages Documentation  
 https://docs.github.com/en/pages
 
+* Andrew Etter, Modern Technical Writing (documentation principles: lightweight tools, docs-as-code, automation).
 ---
 
 ## FAQ
@@ -247,7 +276,6 @@ Markdown is easier to read and write than HTML. It allows documentation to remai
 When using GitHub Pages, the site is rebuilt after each commit. This process can take a few minutes. Refreshing the page after the build completes should show the updates.
 
 ---
-
 ## Credits
 
 Author: Mohamed Wael Kmr  
