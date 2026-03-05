@@ -5,7 +5,7 @@ permalink: /resume/
 ---
 # _MOHAMED WAEL KMR_
 
-## _ SOFTWARE ENGINEERING STUDENT _
+## _SOFTWARE ENGINEERING STUDENT_
 ## _Professional Summary_
 Detail Oriented Software Engineer, and hardworking professional with expertise in problem-solving , complex data analysis to optimize systems, and innovative design implementations. Disciplined on achieving success through unwavering dedication and minimal distractions. Possess natural and developed leadership skills, demonstrating eﬀective management and team guidance. Thrives in dynamic environments that challenge intellectual curiosity and technical rigor
 
