@@ -1,5 +1,5 @@
-# COMP 2600 Assignment 2 — Resume Website (Jekyll + GitHub Pages)
-# Hosting a Resume Website using Markdown, Jekyll, Git, and GitHub Pages
+# Mohamed Kmr - 7951350
+# COMP 2600 - Assignment 2 - Professor Tristan Miller — Hosting a Resume Website using Markdown, Jekyll, Git, and GitHub Pages
 
 ## Purpose
 
@@ -41,7 +41,7 @@ The reader should be able to:
 - Create and edit Markdown files
 - Run simple terminal commands
 
-Using simple tools is consistent with Etter’s recommendation to prefer systems that are easy to maintain and widely supported.
+Using simple tools follows Etter’s recommendation to prefer systems that are easy to maintain, widely supported, and simple to automate.
 
 ---
 
@@ -231,17 +231,19 @@ Open the repository on GitHub.
 
 After deployment completes, the website will appear at:
 
-```bash
+https://USERNAME.github.io/comp2600-a2-resume/
+
+* Example:
+
 https://mohamedamarr.github.io/comp2600-a2-resume/
-```
 
 Automated publishing is a major advantage of static site workflows because it reduces manual steps.
 
 ---
-### How this assignment supports  Andrew Etter argues that good technical documentation should be:
-* Markdown keeps content lightweight and readable (easy to write and update)
-* Git stores a clear history of changes so version controlled (changes tracked like code)
-* Published automatically (deployment should not be a manual chore)
+### How this assignment supports Andrew Etter’s principles that good technical documentation should be:
+* Markdown keeps documentation lightweight and readable, making it easy to write and maintain.
+* Git stores a clear history of changes, allowing documentation to be version-controlled like software.
+* GitHub Pages publishes the site automatically, removing the need for manual deployment.
 
 
 
@@ -251,18 +253,19 @@ GitHub Pages automates publishing so the “source of truth” is always the rep
 ## Further Resources
 
 * Markdown Guide  
-https://www.markdownguide.org/
+[Markdown Guide](https://www.markdownguide.org/)
 
 * Jekyll Documentation  
-https://jekyllrb.com/docs/
+[Jekyll Documentation](https://jekyllrb.com/docs/)
 
 * Git Documentation  
-https://git-scm.com/docs
+[Git Documentation](https://git-scm.com/docs)
 
-* itHub Pages Documentation  
-https://docs.github.com/en/pages
+* GitHub Pages Documentation  
+[GitHub Pages Documentation](https://docs.github.com/en/pages)
 
 * Andrew Etter, Modern Technical Writing (documentation principles: lightweight tools, docs-as-code, automation).
+
 ---
 
 ## FAQ

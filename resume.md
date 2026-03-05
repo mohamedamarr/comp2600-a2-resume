@@ -5,7 +5,7 @@ permalink: /resume/
 ---
 # _MOHAMED WAEL KMR_
 
-## _COMPUTER SCIENCE STUDENT_
+## _ SOFTWARE ENGINEERING STUDENT _
 ## _Professional Summary_
 Detail Oriented Software Engineer, and hardworking professional with expertise in problem-solving , complex data analysis to optimize systems, and innovative design implementations. Disciplined on achieving success through unwavering dedication and minimal distractions. Possess natural and developed leadership skills, demonstrating eﬀective management and team guidance. Thrives in dynamic environments that challenge intellectual curiosity and technical rigor
 
@@ -15,20 +15,19 @@ Detail Oriented Software Engineer, and hardworking professional with expertise i
 
 mo7amed.wael@hotmail.com
 
-2308, 991 Markham Road,
-Winnipeg, Manitoba,
-Canada. R3T 5K1.
+2308-991 Markham Road  
+Winnipeg, Manitoba R3T 5K1  
+Canada
 
 ### **LANGUAGE**
-* English (fluent)
-* Arabic (Native)
-* German (B1)
+* English – Fluent
+* Arabic – Native
+* German – Intermediate (B1)
 
 ### **EDUCATION**
-University of Manitoba,
-Faculty of Sciences -
-Computer Science  
-Expected graduation June 2027
+University of Manitoba  
+Bachelor of Science – Computer Science  
+Expected Graduation: June 2027
 
 ### **EXPERTISE**
 * Leadership Skills and
@@ -58,7 +57,7 @@ GCMUN 2020).
 * Known for professionalism and tact, I resolved guest concerns to enhance loyalty while maintaining expert knowledge of steak cuts, wine pairings, and classic service techniques that reflect the restaurant's renowned
 standards of excellence.
 * Additionally, I supported the onboarding and training of new staﬀ, fostering a culture of consistency, teamwork, and service excellence.
-* Provided excellent Scustomer service by anticipating needs and responding promptly to requests, always actively listening to customers by checking in with guests throughout meal service, replenishing drinks and catering to
+* Provided excellent customer service by anticipating needs and responding promptly to requests, always actively listening to customers by checking in with guests throughout meal service, replenishing drinks and catering to
 additional requests.
 
 ### Customer Service Representative Intern 
