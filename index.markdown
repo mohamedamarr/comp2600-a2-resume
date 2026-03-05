@@ -5,7 +5,7 @@ title: Home
 
 # Mohamed Wael Kmr
 
-Computer Science Student  
+Software Engineering Student  
 University of Manitoba
 
 Welcome to my resume website created for COMP 2600.
